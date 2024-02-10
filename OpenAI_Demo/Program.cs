@@ -1,5 +1,7 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using Newtonsoft.Json.Linq;
+using OpenAI_Demo.Models;
+
+
 
 namespace OpenAI_Demo
 {
@@ -7,12 +9,27 @@ namespace OpenAI_Demo
   {
     static async Task Main(string[] args)
     {
-      var apiKey = "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";
+      string json = File.ReadAllText("appsettings.json");
+      var jsonObj = JObject.Parse(json);
+      string apiKey = jsonObj["ApiKey"].ToString();
       var openAIService = new OpenAIService(apiKey);
 
       try
       {
-        var response = await openAIService.GetResponseAsync("This is a test prompt for ChatGPT.");
+        ChatGptRequest request = new ChatGptRequest()
+        {
+          max_tokens = 7,
+          temperature = 0,
+          messages = new List<Message>()
+                    {
+                         new() {
+                             content = "what is the capital city of israel ?",
+                             role = "system"
+                         }
+                    },
+          model = "gpt-4"
+        };
+        var response = await openAIService.GetResponseAsync(request);
         Console.WriteLine($"Response: {response}");
       }
       catch (Exception ex)

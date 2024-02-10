@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fZhLGoLVkSGiw9dgFCMtZjhcaIn47l9TOSErCWx3npF8rOTf/+nUZfp2LC3kIjqMbTmFsf+Hwf0NEUGqoSyEcA==",
+  "dgSpecHash": "ldY6ijsdCbciJufcDcVGt6TOLqjzNlmVi8A9uauROqcGMRt1p7xh6qZ9RcXZuuncWqMJ18P4CHuOQTVgs6JbwQ==",
   "success": true,
   "projectFilePath": "/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/OpenAI_Demo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/netanelaknin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
