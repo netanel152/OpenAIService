@@ -30,7 +30,7 @@ namespace OpenAI_Demo
           model = "gpt-4"
         };
         var response = await openAIService.GetResponseAsync(request);
-        Console.WriteLine($"Response: {response}");
+        Console.WriteLine($"Response: {response.choices[0].message.content}");
       }
       catch (Exception ex)
       {
