@@ -1,0 +1,17 @@
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/bin/Debug/net7.0/OpenAI_Demo
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/bin/Debug/net7.0/OpenAI_Demo.deps.json
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/bin/Debug/net7.0/OpenAI_Demo.runtimeconfig.json
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/bin/Debug/net7.0/OpenAI_Demo.dll
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/bin/Debug/net7.0/OpenAI_Demo.pdb
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.csproj.AssemblyReference.cache
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.AssemblyInfoInputs.cache
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.AssemblyInfo.cs
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.csproj.CoreCompileInputs.cache
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.csproj.CopyComplete
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.dll
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/refint/OpenAI_Demo.dll
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.pdb
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/OpenAI_Demo.genruntimeconfig.cache
+/Users/netanelaknin/Dev/OpenAI_Demo/OpenAI_Demo/obj/Debug/net7.0/ref/OpenAI_Demo.dll
