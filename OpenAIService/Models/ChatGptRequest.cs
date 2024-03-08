@@ -1,4 +1,4 @@
-namespace OpenAI_Demo.Models;
+namespace OpenAIService.Models;
 
 // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
 public class Message

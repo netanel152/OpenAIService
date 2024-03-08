@@ -1,4 +1,4 @@
-namespace OpenAI_Demo.Models;
+namespace OpenAIService.Models;
 
 public class Choice
 {
